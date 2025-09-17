@@ -31,4 +31,6 @@ form-validation/
  └── README.md
 
 ## ✅ Output
-![WhatsApp Image 2025-09-17 at 11 34 33_f8480dd0](https://github.com/user-attachments/assets/a872d8bc-6a5f-4ec1-9072-b6903cfe5581)
+![WhatsApp Image 2025-09-17 at 12 26 01_96d0fede](https://github.com/user-attachments/assets/edaf65be-d33e-401c-b82e-f5e4af35f252)
+
+![WhatsApp Image 2025-09-17 at 12 26 01_db9ff139](https://github.com/user-attachments/assets/1c41fcbf-adbd-48b4-a9db-253dddacecda)
